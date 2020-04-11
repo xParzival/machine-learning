@@ -1,2 +1,2 @@
 # machine-learning
-算法实现
+算法理论
